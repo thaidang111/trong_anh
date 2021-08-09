@@ -1,4 +1,3 @@
-'''
 const CONFIG = {
     introTitle: 'Xin Chào!',
     introDesc: `Trái đất vốn lạ thường
@@ -18,5 +17,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/tart.pho'
 }
-```
 
